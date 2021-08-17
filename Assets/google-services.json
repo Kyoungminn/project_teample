@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432171486658",
+    "project_id": "kusitms-project",
+    "storage_bucket": "kusitms-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432171486658:android:b9867ffa7816a6d162da5b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.DrawTool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432171486658-ue754ouvlppchoev7hal7ck1jlp5ncvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4eJluuHdSG_nH0d1nH4o-QtpRJFuOB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432171486658-ue754ouvlppchoev7hal7ck1jlp5ncvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

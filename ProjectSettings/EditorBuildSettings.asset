@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: a1adcaacdf5933947a8005eca4c6c8f9
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: ae570191745d1214b99c8c01fb135977
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 62175a4b80e22d944bb94473024810a2
+  - enabled: 1
+    path: Assets/Scenes/SceneHome.unity
+    guid: 7f12f8e9ee27eec4fb5883e81d571442
+  - enabled: 1
+    path: Assets/Scenes/ToDoScene.unity
+    guid: f5054c43f251fe945b5a8ba1220fc0ae
+  - enabled: 1
+    path: Assets/Scenes/VoteScene.unity
+    guid: 18a50b83cf8e8734bac235155f7838f4
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DrawScene.unity
+    guid: 4ce4d4d4aeef2e54e97bb40827915db8
+  - enabled: 0
+    path: 
+    guid: 11e44933caff747879b06a78a609ddfe
+  - enabled: 1
+    path: Assets/Scenes/SceneHelloVideo.unity
+    guid: 38239e0a3e78848d8a1e3b083920e199
+  - enabled: 1
+    path: Assets/Scenes/TextChatScene.unity
+    guid: 317cda2f29953fd4a9340b280c124110
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/PostScene.unity
+    guid: 64fbafd4a4424c0439493d68464102e0
+  - enabled: 1
+    path: Assets/Scenes/PortfolioScene.unity
+    guid: aa4a0a2ded952b84db394de208c91a97
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: dc5bcc0f635dfc448bdab0a3da813f18, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de3ed7c3a85946443baad474865e5a5f, type: 2}
